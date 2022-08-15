@@ -21,8 +21,6 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerlucca&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-##
-
 <div style="display: inline_block"><br>
   <img align="center" alt="WLucca-Arduino" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
   <img align="center" alt="WLucca-Raspberry" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
@@ -57,4 +55,5 @@ Here are some ideas to get you started:
   <a href="mailto:contatowagnerlucca@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wagner-de-oliveira-lucca-4975b382/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+  ![Snake animation](https://github.com/wagnerlucca/wagnerlucca/blob/output/github-contribution-grid-snake.svg)
 </div>
